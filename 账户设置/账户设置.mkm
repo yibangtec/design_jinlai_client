@@ -1,0 +1,18 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/%e8%b4%a6%e6%88%b7%e8%ae%be%e7%bd%ae.png">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15790320" offsetX="25" offsetY="10" x="394" y="578"/>
+    <LengthMark direction="3" color="16711680" length="88" x="334" y="149"/>
+    <LengthMark direction="12" color="16711680" length="20" x="0" y="165"/>
+    <LengthMark direction="3" color="16711680" length="30" x="62" y="206"/>
+    <LengthMark direction="12" color="16711680" length="20" x="20" y="196"/>
+    <LengthMark direction="3" color="16711680" length="30" x="97" y="149"/>
+    <LengthMark direction="12" color="16711680" length="20" x="710" y="195"/>
+    <LengthMark direction="3" color="16711680" length="20" x="562" y="128"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="456" y="78" textMaxWidth="100" offsetX="43" offsetY="10" text="32px   #3e3a39"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="147" y="188" textMaxWidth="100" offsetX="25" offsetY="10" text="28px   #3e3a39"/>
+    <LengthMark direction="3" color="16711680" length="10" x="227" y="237"/>
+    <LengthMark direction="3" color="16711680" length="30" x="180" y="335"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16777215" targetColor="16725577" offsetX="71" offsetY="19" x="132" y="414"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="394" y="401" textMaxWidth="100" offsetX="25" offsetY="10" text="28px"/>
+  </Marks>
+</MKM>
