@@ -1,0 +1,14 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/Administrator/Desktop/%e5%af%86%e7%a0%81%e8%ae%be%e7%bd%ae.png">
+  <Marks>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15790320" offsetX="25" offsetY="10" x="136" y="603"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16777215" targetColor="16725577" offsetX="25" offsetY="10" x="130" y="490"/>
+    <LengthMark direction="3" color="16711680" length="30" x="476" y="411"/>
+    <LengthMark direction="3" color="16711680" length="262" x="734" y="149"/>
+    <LengthMark direction="12" color="16711680" length="20" x="0" y="234"/>
+    <LengthMark direction="3" color="16711680" length="20" x="253" y="128"/>
+    <LengthMark direction="3" color="16711680" length="88" x="629" y="149"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="392" y="238" textMaxWidth="100" offsetX="25" offsetY="10" text="#e1e1e1  w:670px"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="258" y="183" textMaxWidth="100" offsetX="25" offsetY="10" text="28px  #999999 "/>
+    <TextMark defaultDirection="9" direction="9" color="16777215" x="403" y="481" textMaxWidth="100" offsetX="25" offsetY="10" text="28px   #ffffff"/>
+  </Marks>
+</MKM>
