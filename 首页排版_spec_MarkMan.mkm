@@ -5,5 +5,6 @@
     <LengthMark direction="3" color="16711680" length="42" x="205" y="6593"/>
     <LengthMark direction="12" color="16711680" length="42" x="206" y="6588"/>
     <LengthMark direction="3" color="16711680" length="10" x="216" y="6632"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="292" y="3302" textMaxWidth="100" offsetX="25" offsetY="10" text="图片尺寸改为160*160px&#xD;上下左右间隔10px"/>
   </Marks>
 </MKM>
