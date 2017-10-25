@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?8ttghu');
-  src:  url('fonts/icomoon.eot?8ttghu#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?8ttghu') format('woff2'),
-    url('fonts/icomoon.ttf?8ttghu') format('truetype'),
-    url('fonts/icomoon.woff?8ttghu') format('woff'),
-    url('fonts/icomoon.svg?8ttghu#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?cm1los');
+  src:  url('fonts/icomoon.eot?cm1los#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?cm1los') format('woff2'),
+    url('fonts/icomoon.ttf?cm1los') format('truetype'),
+    url('fonts/icomoon.woff?cm1los') format('woff'),
+    url('fonts/icomoon.svg?cm1los#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,18 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-xiangji:before {
+  content: "\e963";
+  color: #9fa0a0;
+}
+.icon-weixuanzhong2:before {
+  content: "\e964";
+  color: #c9caca;
+}
+.icon-xuanzhong2:before {
+  content: "\e965";
+  color: #ff3649;
+}
 .icon-about-more:before {
   content: "\e900";
 }
