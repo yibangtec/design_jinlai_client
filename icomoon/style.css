@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?au2p21');
-  src:  url('fonts/icomoon.eot?au2p21#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?au2p21') format('woff2'),
-    url('fonts/icomoon.ttf?au2p21') format('truetype'),
-    url('fonts/icomoon.woff?au2p21') format('woff'),
-    url('fonts/icomoon.svg?au2p21#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?a3e3ir');
+  src:  url('fonts/icomoon.eot?a3e3ir#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?a3e3ir') format('woff2'),
+    url('fonts/icomoon.ttf?a3e3ir') format('truetype'),
+    url('fonts/icomoon.woff?a3e3ir') format('woff'),
+    url('fonts/icomoon.svg?a3e3ir#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,19 +25,21 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-jifen2:before {
-  content: "\e915";
-}
-.icon-shop2:before {
+.icon-gouwu:before {
   content: "\e93e";
+  color: #dec08e;
+}
+.icon-jifen2:before {
+  content: "\e966";
+  color: #dec08e;
 }
 .icon-xiaoxi:before {
-  content: "\e980";
-  color: #ffbe00;
+  content: "\e968";
+  color: #dec08e;
 }
 .icon-xinpin:before {
-  content: "\e981";
-  color: #f06292;
+  content: "\e969";
+  color: #dec08e;
 }
 .icon-uncaddress-uncelec-t:before {
   content: "\e900";
@@ -157,20 +159,6 @@ i {
 .icon-xuanzhong2:before {
   content: "\e965";
   color: #ff3649;
-}
-.icon-风 .path1:before {
-  content: "\e966";
-  color: rgb(236, 244, 247);
-}
-.icon-风 .path2:before {
-  content: "\e968";
-  margin-left: -1em;
-  color: rgb(236, 244, 247);
-}
-.icon-风 .path3:before {
-  content: "\e969";
-  margin-left: -1em;
-  color: rgb(81, 86, 95);
 }
 .icon-buy:before {
   content: "\e967";
@@ -302,6 +290,12 @@ i {
 }
 .icon-666464:before {
   content: "\e914";
+}
+.icon-failure:before {
+  content: "\e915";
+}
+.icon-ffffff3:before {
+  content: "\e915";
 }
 .icon-fanhui:before {
   content: "\e916";
