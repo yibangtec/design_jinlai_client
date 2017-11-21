@@ -1,0 +1,70 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M512 0c282.287 0 512 229.688 512 512s-229.713 512-512 512-512-229.713-512-512 229.688-512 512-512zM512 972.611c246.985 0 460.611-213.625 460.611-460.611s-213.625-460.623-460.611-460.623-460.623 213.588-460.623 460.623 213.588 460.611 460.623 460.611zM512 972.611z",
+          "M429.76 257.437c0.013-0 0.028-0 0.044-0 8.825 0 16.813 3.586 22.586 9.379l0.001 0.001 178.74 178.74c37.432 37.42 38.693 84.472 1.261 121.879l-178.74 178.752c-12.494 12.494-30.359 15.394-40.017 0.593-9.897-15.129 7.489-34.608 19.996-47.102l166.132-168.666c5.78-5.795 9.355-13.792 9.355-22.625s-3.574-16.83-9.355-22.625l0.001 0.001-178.752-178.752c-12.494-12.494-20.059-32.868-6.304-43.988 4.753-3.845 6.871-5.585 15.054-5.585zM429.76 257.437z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "资源 1"
+        ]
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 8,
+        "id": 0,
+        "name": "shoucang-more-jiantou",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 4,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
