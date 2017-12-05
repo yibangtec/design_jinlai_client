@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?guqk9l');
-  src:  url('fonts/icomoon.eot?guqk9l#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?guqk9l') format('woff2'),
-    url('fonts/icomoon.ttf?guqk9l') format('truetype'),
-    url('fonts/icomoon.woff?guqk9l') format('woff'),
-    url('fonts/icomoon.svg?guqk9l#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?izjz3');
+  src:  url('fonts/icomoon.eot?izjz3#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?izjz3') format('woff2'),
+    url('fonts/icomoon.ttf?izjz3') format('truetype'),
+    url('fonts/icomoon.woff?izjz3') format('woff'),
+    url('fonts/icomoon.svg?izjz3#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,117 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bianji-bgmenu:before {
+  content: "\e985";
+  color: #fff;
+}
+.icon-bianji-bgmenu-click:before {
+  content: "\e986";
+  color: #fff;
+}
+.icon-bianji-menu:before {
+  content: "\e987";
+  color: #000;
+}
+.icon-bianji-menu-click:before {
+  content: "\e988";
+  color: #000;
+}
+.icon-bottom-photos:before {
+  content: "\e989";
+  color: #fff;
+}
+.icon-bottom-preview:before {
+  content: "\e98a";
+  color: #000;
+}
+.icon-bottom-text:before {
+  content: "\e98b";
+  color: #fff;
+}
+.icon-close .path1:before {
+  content: "\e98c";
+  color: rgb(148, 146, 146);
+}
+.icon-close .path2:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-del2 .path1:before {
+  content: "\e98e";
+  color: rgb(148, 146, 146);
+}
+.icon-del2 .path2:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-down .path1:before {
+  content: "\e990";
+  color: rgb(148, 146, 146);
+}
+.icon-down .path2:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-down .path3:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-down .path4:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-photos .path1:before {
+  content: "\e994";
+  color: rgb(148, 146, 146);
+}
+.icon-photos .path2:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-replace .path1:before {
+  content: "\e996";
+  color: rgb(148, 146, 146);
+}
+.icon-replace .path2:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-text .path1:before {
+  content: "\e998";
+  color: rgb(148, 146, 146);
+}
+.icon-text .path2:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-up .path1:before {
+  content: "\e99a";
+  color: rgb(148, 146, 146);
+}
+.icon-up .path2:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-up .path3:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-up .path4:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
 .icon-dp_fenxiang:before {
   content: "\e982";
   color: #fff;
@@ -166,6 +277,9 @@ i {
 .icon-xuanzhong2:before {
   content: "\e965";
   color: #ff3649;
+}
+.icon-xialajiantou2:before {
+  content: "\e984";
 }
 .icon-xialajiantou:before {
   content: "\e983";
