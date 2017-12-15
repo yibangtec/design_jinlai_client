@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?4vvxi6');
-  src:  url('fonts/icomoon.eot?4vvxi6#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?4vvxi6') format('woff2'),
-    url('fonts/icomoon.ttf?4vvxi6') format('truetype'),
-    url('fonts/icomoon.woff?4vvxi6') format('woff'),
-    url('fonts/icomoon.svg?4vvxi6#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?w1bf5q');
+  src:  url('fonts/icomoon.eot?w1bf5q#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?w1bf5q') format('woff2'),
+    url('fonts/icomoon.ttf?w1bf5q') format('truetype'),
+    url('fonts/icomoon.woff?w1bf5q') format('woff'),
+    url('fonts/icomoon.svg?w1bf5q#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,30 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-pengyouquan:before {
+  content: "\e987";
+  color: #3eb135;
+}
+.icon-QQ:before {
+  content: "\e988";
+  color: #4dafea;
+}
+.icon-QQkongjian:before {
+  content: "\e989";
+  color: #edd03d;
+}
+.icon-saoma:before {
+  content: "\e98a";
+  color: #67c03b;
+}
+.icon-weibo:before {
+  content: "\e98b";
+  color: #df4e6a;
+}
+.icon-weixin3:before {
+  content: "\e98c";
+  color: #3eb135;
+}
 .icon-lingquhuiyuaka:before {
   content: "\e91b";
 }
@@ -122,6 +146,10 @@ i {
   content: "\e97c";
   color: #949292;
 }
+.icon-delete:before {
+  content: "\e986";
+  color: #949292;
+}
 .icon-dp_fenxiang:before {
   content: "\e982";
   color: #fff;
@@ -181,6 +209,12 @@ i {
 }
 .icon-buy:before {
   content: "\e967";
+}
+.icon-about-more2:before {
+  content: "\e97f";
+}
+.icon-3e3a3910:before {
+  content: "\e97f";
 }
 .icon-add-add-red:before {
   content: "\e902";
@@ -334,6 +368,12 @@ i {
 .icon-gaoerfu:before {
   content: "\e91a";
   color: #fff;
+}
+.icon-gengduo:before {
+  content: "\e985";
+}
+.icon-3e3a39102:before {
+  content: "\e985";
 }
 .icon-geren_xiala:before {
   content: "\e91c";
