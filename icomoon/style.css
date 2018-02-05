@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?s4qlr5');
-  src:  url('fonts/icomoon.eot?s4qlr5#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?s4qlr5') format('woff2'),
-    url('fonts/icomoon.ttf?s4qlr5') format('truetype'),
-    url('fonts/icomoon.woff?s4qlr5') format('woff'),
-    url('fonts/icomoon.svg?s4qlr5#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?je2bry');
+  src:  url('fonts/icomoon.eot?je2bry#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?je2bry') format('woff2'),
+    url('fonts/icomoon.ttf?je2bry') format('truetype'),
+    url('fonts/icomoon.woff?je2bry') format('woff'),
+    url('fonts/icomoon.svg?je2bry#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,29 +25,23 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-cancelled:before {
-  content: "\e904";
-}
-.icon-403c3b3:before {
-  content: "\e904";
-}
 .icon-closed:before {
   content: "\e9a3";
 }
 .icon-403c3b4:before {
   content: "\e9a3";
 }
-.icon-refunded:before {
-  content: "\e9a4";
-}
-.icon-29be582:before {
-  content: "\e9a4";
-}
 .icon-rejected:before {
   content: "\e9a5";
 }
 .icon-ff36496:before {
   content: "\e9a5";
+}
+.icon-refunded:before {
+  content: "\e9a4";
+}
+.icon-29be582:before {
+  content: "\e9a4";
 }
 .icon-waiting-handling:before {
   content: "\e9a7";
