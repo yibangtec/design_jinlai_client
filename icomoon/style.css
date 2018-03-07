@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?f2ema3');
-  src:  url('fonts/icomoon.eot?f2ema3#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?f2ema3') format('woff2'),
-    url('fonts/icomoon.ttf?f2ema3') format('truetype'),
-    url('fonts/icomoon.woff?f2ema3') format('woff'),
-    url('fonts/icomoon.svg?f2ema3#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?2gu386');
+  src:  url('fonts/icomoon.eot?2gu386#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?2gu386') format('woff2'),
+    url('fonts/icomoon.ttf?2gu386') format('truetype'),
+    url('fonts/icomoon.woff?2gu386') format('woff'),
+    url('fonts/icomoon.svg?2gu386#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,20 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-toupiao_fenlei:before {
+  content: "\e946";
+  color: #9d9aff;
+}
+.icon-toupiao_sousuo:before {
+  content: "\e9ad";
+  color: #9794f6;
+}
+.icon-vip-(1):before {
+  content: "\e904";
+}
+.icon-搜索:before {
+  content: "\e9ac";
+}
 .icon-closed:before {
   content: "\e9a3";
 }
@@ -739,7 +753,7 @@ i {
   content: "\e945";
 }
 .icon-youyong:before {
-  content: "\e946";
+  content: "\e9ae";
 }
 .icon-yue:before {
   content: "\e947";
