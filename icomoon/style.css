@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?2gu386');
-  src:  url('fonts/icomoon.eot?2gu386#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?2gu386') format('woff2'),
-    url('fonts/icomoon.ttf?2gu386') format('truetype'),
-    url('fonts/icomoon.woff?2gu386') format('woff'),
-    url('fonts/icomoon.svg?2gu386#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?25t2u7');
+  src:  url('fonts/icomoon.eot?25t2u7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?25t2u7') format('woff2'),
+    url('fonts/icomoon.ttf?25t2u7') format('truetype'),
+    url('fonts/icomoon.woff?25t2u7') format('woff'),
+    url('fonts/icomoon.svg?25t2u7#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,71 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-huiyuanquanyi:before {
+  content: "\e9af";
+  color: #f5b53a;
+}
+.icon-jiekuan .path1:before {
+  content: "\e9b0";
+  color: rgb(245, 207, 76);
+}
+.icon-jiekuan .path2:before {
+  content: "\e9b1";
+  margin-left: -1.4755859375em;
+  color: rgb(245, 207, 76);
+}
+.icon-jiekuan .path3:before {
+  content: "\e9b2";
+  margin-left: -1.4755859375em;
+  color: rgb(245, 207, 76);
+}
+.icon-jiekuan .path4:before {
+  content: "\e9b3";
+  margin-left: -1.4755859375em;
+  color: rgb(255, 255, 255);
+}
+.icon-kanguode:before {
+  content: "\e9b4";
+}
+.icon-shenqing .path1:before {
+  content: "\e9b5";
+  color: rgb(129, 181, 241);
+}
+.icon-shenqing .path2:before {
+  content: "\e9b6";
+  margin-left: -1.501953125em;
+  color: rgb(129, 181, 241);
+}
+.icon-shenqing .path3:before {
+  content: "\e9b7";
+  margin-left: -1.501953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-shenqing .path4:before {
+  content: "\e9b8";
+  margin-left: -1.501953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-shenqing .path5:before {
+  content: "\e9b9";
+  margin-left: -1.501953125em;
+  color: rgb(255, 255, 255);
+}
+.icon-shenqing .path6:before {
+  content: "\e9ba";
+  margin-left: -1.501953125em;
+  color: rgb(129, 181, 241);
+}
+.icon-shenqing .path7:before {
+  content: "\e9bb";
+  margin-left: -1.501953125em;
+  color: rgb(129, 181, 241);
+}
+.icon-shenqing .path8:before {
+  content: "\e9bc";
+  margin-left: -1.501953125em;
+  color: rgb(129, 181, 241);
+}
 .icon-toupiao_fenlei:before {
   content: "\e946";
   color: #9d9aff;
