@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?yxgvt0');
-  src:  url('fonts/icomoon.eot?yxgvt0#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?yxgvt0') format('woff2'),
-    url('fonts/icomoon.ttf?yxgvt0') format('truetype'),
-    url('fonts/icomoon.woff?yxgvt0') format('woff'),
-    url('fonts/icomoon.svg?yxgvt0#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ykgo5l');
+  src:  url('fonts/icomoon.eot?ykgo5l#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?ykgo5l') format('woff2'),
+    url('fonts/icomoon.ttf?ykgo5l') format('truetype'),
+    url('fonts/icomoon.woff?ykgo5l') format('woff'),
+    url('fonts/icomoon.svg?ykgo5l#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,10 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-椭圆5拷贝4@3x:before {
+  content: "\e9b2";
+  color: #fff;
+}
 .icon-编辑:before {
   content: "\e977";
 }
@@ -66,6 +70,9 @@ i {
   margin-left: -0.70703125em;
   color: rgb(255, 92, 99);
 }
+.icon-wokanguode:before {
+  content: "\e972";
+}
 .icon-huiyuanquanyi:before {
   content: "\e970";
   color: #f5b53a;
@@ -73,9 +80,6 @@ i {
 .icon-jiekuan:before {
   content: "\e971";
   color: #f5cf4c;
-}
-.icon-kanguode:before {
-  content: "\e972";
 }
 .icon-shenqing:before {
   content: "\e973";
