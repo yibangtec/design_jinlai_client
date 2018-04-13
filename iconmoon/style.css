@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?fc9iey');
-  src:  url('fonts/icomoon.eot?fc9iey#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?fc9iey') format('woff2'),
-    url('fonts/icomoon.ttf?fc9iey') format('truetype'),
-    url('fonts/icomoon.woff?fc9iey') format('woff'),
-    url('fonts/icomoon.svg?fc9iey#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?ps00mq');
+  src:  url('fonts/icomoon.eot?ps00mq#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?ps00mq') format('woff2'),
+    url('fonts/icomoon.ttf?ps00mq') format('truetype'),
+    url('fonts/icomoon.woff?ps00mq') format('woff'),
+    url('fonts/icomoon.svg?ps00mq#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,28 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-收藏(线框):before {
+  content: "\e97c";
+}
+.icon-时间下拉2 .path1:before {
+  content: "\e9b7";
+  color: rgb(255, 255, 255);
+}
+.icon-时间下拉2 .path2:before {
+  content: "\e9b8";
+  margin-left: -0.70703125em;
+  color: rgb(255, 255, 255);
+}
+.icon-时间下拉2 .path3:before {
+  content: "\e9b9";
+  margin-left: -0.70703125em;
+  color: rgb(191, 191, 191);
+}
+.icon-时间下拉2 .path4:before {
+  content: "\e9ba";
+  margin-left: -0.70703125em;
+  color: rgb(255, 255, 255);
+}
 .icon-时间下拉 .path1:before {
   content: "\e9b3";
   color: rgb(255, 255, 255);
@@ -63,9 +85,6 @@ i {
 }
 .icon-垃圾桶:before {
   content: "\e97b";
-}
-.icon-收藏(线框):before {
-  content: "\e97c";
 }
 .icon-收藏:before {
   content: "\e9af";
