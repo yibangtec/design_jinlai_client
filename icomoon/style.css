@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?3mnxoe');
-  src:  url('fonts/icomoon.eot?3mnxoe#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?3mnxoe') format('woff2'),
-    url('fonts/icomoon.ttf?3mnxoe') format('truetype'),
-    url('fonts/icomoon.woff?3mnxoe') format('woff'),
-    url('fonts/icomoon.svg?3mnxoe#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?i54z9m');
+  src:  url('fonts/icomoon.eot?i54z9m#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?i54z9m') format('woff2'),
+    url('fonts/icomoon.ttf?i54z9m') format('truetype'),
+    url('fonts/icomoon.woff?i54z9m') format('woff'),
+    url('fonts/icomoon.svg?i54z9m#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-xuanzhong:before {
+  content: "\e900";
+}
 .icon-di-tu:before {
   content: "\e902";
   color: #fff;
@@ -404,14 +407,6 @@ i {
 .icon-cccccc:before {
   content: "\e907";
   color: #707070;
-}
-.icon-address-elect:before {
-  content: "\e908";
-  color: #09bb07;
-}
-.icon-FF3649:before {
-  content: "\e908";
-  color: #09bb07;
 }
 .icon-apple_pay:before {
   content: "\276a";
