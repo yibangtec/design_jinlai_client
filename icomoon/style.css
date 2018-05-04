@@ -1,6 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('fonts/icomoon.ttf') format('truetype');
+  src:  url('fonts/icomoon.eot?7xyn2z');
+  src:  url('fonts/icomoon.eot?7xyn2z#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?7xyn2z') format('woff2'),
+    url('fonts/icomoon.ttf?7xyn2z') format('truetype'),
+    url('fonts/icomoon.woff?7xyn2z') format('woff'),
+    url('fonts/icomoon.svg?7xyn2z#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -20,6 +25,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-sb:before {
+  content: "\e901";
+}
 .icon-xuanzhong:before {
   content: "\e900";
 }
@@ -628,12 +636,12 @@ i {
 .icon-weixin_xin .path2:before {
   content: "\e9b4";
   margin-left: -1.5576171875em;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 .icon-weixin_xin .path3:before {
   content: "\e9b5";
   margin-left: -1.5576171875em;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 .icon-write:before {
   content: "\e93f";
@@ -648,7 +656,7 @@ i {
 .icon-xing .path2:before {
   content: "\e941";
   margin-left: -1em;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 .icon-yishouhuo:before {
   content: "\e945";
@@ -673,7 +681,7 @@ i {
 .icon-zhifubao_xin .path2:before {
   content: "\e94c";
   margin-left: -1.5576171875em;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 .icon-zidongtui:before {
   content: "\e94d";
