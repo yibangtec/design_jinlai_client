@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?nqhjxt');
-  src:  url('fonts/icomoon.eot?nqhjxt#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?nqhjxt') format('woff2'),
-    url('fonts/icomoon.ttf?nqhjxt') format('truetype'),
-    url('fonts/icomoon.woff?nqhjxt') format('woff'),
-    url('fonts/icomoon.svg?nqhjxt#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?68a1qr');
+  src:  url('fonts/icomoon.eot?68a1qr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?68a1qr') format('woff2'),
+    url('fonts/icomoon.ttf?68a1qr') format('truetype'),
+    url('fonts/icomoon.woff?68a1qr') format('woff'),
+    url('fonts/icomoon.svg?68a1qr#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,12 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-jian-tou:before {
+  content: "\e925";
+}
+.icon-guan-bi:before {
+  content: "\e921";
+}
 .icon-daohang:before {
   content: "\e920";
 }
