@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?cv3n0n');
-  src:  url('fonts/icomoon.eot?cv3n0n#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?cv3n0n') format('woff2'),
-    url('fonts/icomoon.ttf?cv3n0n') format('truetype'),
-    url('fonts/icomoon.woff?cv3n0n') format('woff'),
-    url('fonts/icomoon.svg?cv3n0n#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?k3435y');
+  src:  url('fonts/icomoon.eot?k3435y#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?k3435y') format('woff2'),
+    url('fonts/icomoon.ttf?k3435y') format('truetype'),
+    url('fonts/icomoon.woff?k3435y') format('woff'),
+    url('fonts/icomoon.svg?k3435y#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,6 +25,9 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-置顶:before {
+  content: "\e92f";
+}
 .icon-sanjiao-1:before {
   content: "\e926";
   color: #ccc;
@@ -708,10 +711,6 @@ i {
 }
 .icon-eecf3d:before {
   content: "\e947";
-}
-.icon-zhifubao:before {
-  content: "\e94a";
-  color: #19a0e5;
 }
 .icon-zhifubao_xin .path1:before {
   content: "\e94b";
