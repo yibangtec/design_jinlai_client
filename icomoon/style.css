@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?y97sgr');
-  src:  url('fonts/icomoon.eot?y97sgr#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.woff2?y97sgr') format('woff2'),
-    url('fonts/icomoon.ttf?y97sgr') format('truetype'),
-    url('fonts/icomoon.woff?y97sgr') format('woff'),
-    url('fonts/icomoon.svg?y97sgr#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?6naxmz');
+  src:  url('fonts/icomoon.eot?6naxmz#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?6naxmz') format('woff2'),
+    url('fonts/icomoon.ttf?6naxmz') format('truetype'),
+    url('fonts/icomoon.woff?6naxmz') format('woff'),
+    url('fonts/icomoon.svg?6naxmz#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -404,6 +404,12 @@ i {
 .icon-xuanzhong2:before {
   content: "\e965";
   color: #ff3649;
+}
+.icon-钱:before {
+  content: "\e933";
+}
+.icon-时间:before {
+  content: "\e934";
 }
 .icon-close3:before {
   content: "\e91e";
